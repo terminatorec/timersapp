@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/timersapp/static/css/main.c095c23f.css",
-    "main.js": "/timersapp/static/js/main.88220d4d.js",
+    "main.js": "/timersapp/static/js/main.83d1da37.js",
     "static/js/787.6795c0a4.chunk.js": "/timersapp/static/js/787.6795c0a4.chunk.js",
     "index.html": "/timersapp/index.html",
     "main.c095c23f.css.map": "/timersapp/static/css/main.c095c23f.css.map",
-    "main.88220d4d.js.map": "/timersapp/static/js/main.88220d4d.js.map",
+    "main.83d1da37.js.map": "/timersapp/static/js/main.83d1da37.js.map",
     "787.6795c0a4.chunk.js.map": "/timersapp/static/js/787.6795c0a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c095c23f.css",
-    "static/js/main.88220d4d.js"
+    "static/js/main.83d1da37.js"
   ]
 }
